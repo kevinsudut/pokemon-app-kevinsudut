@@ -1,3 +1,7 @@
+# Deployment webiste URL
+
+Open this link https://pokemon-app-kevinsudut.herokuapp.com to view the hosting website in the browser. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
